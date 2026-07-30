@@ -1,4 +1,3 @@
-import { defineFieldCopy } from '@/app/settings/field-copy'
 import { defineLocale } from './define-locale'
 
 export const tr = defineLocale({
